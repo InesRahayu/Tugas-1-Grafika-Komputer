@@ -24,7 +24,7 @@
 |  |  |  |
 |--|--|--|
 |*No*| *Tugas* | *Detail* |
-| 1 | Pertemuan 1 p5.js | Membuat Shape dan Merotasikan |
+| 1 | Pertemuan 1 p5.js | Membuat Shape di p5.js, memberi warna lalu dirotasikan |
 
 # SCREENSHOT PROGRAM
 (![image](https://github.com/user-attachments/assets/9794f6b7-eb6b-4ae9-aeb9-615ab91a8dbc)
